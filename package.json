@@ -1,0 +1,25 @@
+{
+  "name": "node-simple-extend",
+  "version": "0.0.1",
+  "description": "A simple JavaScript constructor inheritance utility",
+  "main": "simple-extend.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tirithen/node-simple-extend.git"
+  },
+  "keywords": [
+    "inheritance",
+    "prototype",
+    "extend",
+    "class"
+  ],
+  "author": "Fredrik Söderström <tirithen@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tirithen/node-simple-extend/issues"
+  },
+  "homepage": "https://github.com/tirithen/node-simple-extend"
+}
