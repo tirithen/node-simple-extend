@@ -5,7 +5,7 @@ Simple extend is a JavaScript constructor inheritance utility. The utility can b
 ## Installation
 To use Simple extend with node.js simply use npm:
     
-    $ npm install simple-extend
+    $ npm install node-simple-extend
 
 To use Simple extend in a browser environment, simply include the simple-extend.js file in a script tag.
 
